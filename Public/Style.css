@@ -1,0 +1,280 @@
+   
+    
+     
+      
+      
+      h1{
+        font-size: 5rem;
+
+        color:blanchedalmond;
+        font-family: 'Franklin Gothic Medium'
+        
+      }
+
+      .pro{
+
+        color: antiquewhite
+        f
+      }
+
+    
+
+       .about{
+
+        font-family: fantasy;
+        font-style: inherit;
+
+      
+       }
+
+      
+
+       H2{
+
+           font-size: 4rem;
+           text-align: center;
+           font-family: cursive;
+           color: 9400FF;
+           font-style: oblique;
+        
+        margin-bottom: 5%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+       }
+
+       .ContainerA{
+         padding-top: 13%;
+
+         width: 1280;
+       
+        background-color:#707070	 ;
+        border-radius: 5%;
+        padding-bottom: 5%;
+        
+        
+
+       }
+
+       .ContainerA img{
+
+        width: 100%;
+       }
+
+       img{
+
+         width: 100%;
+         height: auto;
+        
+        
+       }
+
+       .container2 img{
+
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+      
+       display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 5%;
+      margin-bottom: 4%;
+      background-color: black;
+
+       }
+
+       h3{
+
+        text-align: center;
+        color: black !important;
+        text-decoration: double;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-bottom: 10%;
+       }
+
+       .container2 p{
+
+        text-align: center;
+        color: 27005D;        
+       }
+       
+       .container2{
+
+        margin-bottom: 8%;
+
+
+
+       }
+
+
+ 
+      
+    
+       
+    
+
+        .skill{
+
+          display: grid;
+          grid-column: auto;
+          height: 100vh;
+          width: 100;
+         
+          background-color: #A9A9A9	;
+          border-radius: 5%;
+          padding: 5%;
+
+      
+
+        }
+
+
+      .tile-image{
+        height: 200PX;
+        width: 200px;
+        border-radius: 20%;
+        margin-bottom: 10px;
+        float: left;
+
+      }
+
+     
+
+      
+
+        .card{
+
+          width: 40%;
+        
+          margin-left: 10px;
+        }
+
+        .left{
+
+          margin-right: 15px;
+          margin-left: 5px;
+        }
+
+        
+
+        .containerx div{
+
+            margin-bottom: 15px;
+        }
+
+    
+        ul{
+
+            list-style: none;
+        }
+
+       
+
+        h3{
+
+            margin: 15px;
+           
+            font-size: 5rem;
+            
+        }
+
+        h2{
+
+            color: antiquewhite;
+            
+        }
+
+        h4{
+
+            color: black;
+            font-size: 3rem;
+            margin-bottom: 30px;
+            
+
+        }
+
+        p{
+
+          font-family: 'Segoe UI';
+
+          color: black;
+        }
+
+        body{
+          display: flex !important; 
+          row-gap: 10px !important;
+          flex-direction: column;
+
+            background-color:FF8400 ;
+            text-align: center;
+            
+          }
+
+          
+          
+          .btn{
+
+            border-radius: 25%;
+            background-color: none
+           color(#FFE5AD)
+            
+
+       }
+
+       .footer{
+
+        background-color: lightgray ;
+        padding-bottom: 30px;
+        margin-top: 20px;
+
+      }
+ 
+
+      @media only screen and  (max-width: 420px) 
+      
+      {
+
+        h1{
+
+          font-size: 30px;
+        }
+
+     
+        h2{
+
+          font-size: 25px;
+        }
+
+        h3{
+
+          font-size: 23px;
+        }
+
+        h4{
+
+          font-size: 23px;
+
+        }
+
+        p{
+
+          font-size: 10px;
+        }
+
+        .body{
+
+          background-color: aqua;
+          height: fit-content;
+        }
+
+
+
+
+
+      }
+        
+    
+
+  
+
+     
